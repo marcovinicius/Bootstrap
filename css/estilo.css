@@ -1,0 +1,94 @@
+* {
+    border: 0px solid red;
+    margin: 1px;
+    padding: 5px;
+}
+
+p {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu {
+    width: 98%;
+    height: 145px;
+    border: 1px solid #5b49b0;
+    background-color: #5b49b0;
+}
+
+#menu a {
+    color: whitesmoke;
+    text-decoration: none;
+    text-align: center;
+}
+
+.box {
+    border: px solid red;
+    padding: 5px;
+    display: inline;
+}
+
+.produtos {
+    position: relative;
+    top: -58px;
+    left: 10%;
+}
+
+.lojas {
+    position: relative;
+    top: -58px;
+    left: 28%;
+}
+
+.fale {
+    position: relative;
+    top: -58px;
+    left: 50%;
+}
+
+.container2 {
+    border: 0px solid seagreen;
+    padding: 10px;
+    width: 700px;
+    height: 100%;
+}
+
+.box_produto {
+    text-align: center;
+    display: list-item;
+    position: relative;
+}
+
+#descricao {
+    color: #2F4F4F;
+}
+
+#antigo {
+    color: #ad0404;
+}
+
+.preço {
+    color: #228B22;
+}
+
+#endereço {
+    color: #696969;
+}
+
+#formas_pagamento {
+    color: black;
+}
+
+#rodape {
+    text-align: center;
+    background-color: #5b49b0;
+}
+
+#copy {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
